@@ -63,31 +63,31 @@ _
 
 ## Sample Session
 
-ping
+> ping
 
-ddos
+> ddos
 
-sql_inject
+> sql_inject
 
-Output: 11
+> Output: 11
 
-virus
+> virus
 
-Virus injected → value is now 47
+> Virus injected → value is now 47
 
-store secret
+> store secret
 
-zero
+> zero
 
-load secret
+> load secret
 
-Loaded 'secret' = 47
+> Loaded 'secret' = 47
 
-payload
+> payload
 
-sql_inject
+> sql_inject
 
-Output: 2209
+> Output: 2209
 
 
 ## Insallation:
