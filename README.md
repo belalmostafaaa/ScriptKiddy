@@ -1,6 +1,6 @@
 # ScriptKiddy
 
-> A hacker-themed esolang (esoteric programming language) inspired by real cybersecurity terms and actions.  
+> A hacker-themed esolang (esoteric programming language) made by real cybersecurity actions.  
 > Every command simulates a real-world cyber concept like `ddos`, `payload`, `keylogger`, and more — with logic that *makes sense to a script kiddie*.
 
 ---
@@ -63,28 +63,34 @@ _
 
 ## Sample Session
 
-> ping
-> ddos
-> sql_inject
+ping
+ddos
+sql_inject
 Output: 11
 
-> virus
+virus
 Virus injected → value is now 47
 
-> store secret
-> zero
-> load secret
+store secret
+zero
+load secret
 Loaded 'secret' = 47
 
-> payload
-> sql_inject
+payload
+sql_inject
 Output: 2209
 
 
 ## Insallation:
 Make sure you have installed python
 
-``` git clone https://github.com/yourusername/scriptkid```
-``` cd scriptkid ```
-``` python3 scriptkid.py```
+```
+git clone https://github.com/yourusername/scriptkid
+```
+```
+cd scriptkid 
+```
+``` 
+python3 scriptkid.py
+```
 
