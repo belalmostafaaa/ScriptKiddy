@@ -69,11 +69,11 @@ _
 
 > sql_inject
 
-> Output: 11
+Output: 11
 
 > virus
 
-> Virus injected → value is now 47
+Virus injected → value is now 47
 
 > store secret
 
@@ -81,13 +81,13 @@ _
 
 > load secret
 
-> Loaded 'secret' = 47
+Loaded 'secret' = 47
 
 > payload
 
 > sql_inject
 
-> Output: 2209
+Output: 2209
 
 
 ## Insallation:
