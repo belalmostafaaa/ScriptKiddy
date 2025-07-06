@@ -1,4 +1,4 @@
-# ScriptKiddy
+# ScriptKiddie
 
 > A hacker-themed esolang (esoteric programming language) made by real cybersecurity actions.  
 > Every command simulates a real-world cyber concept like `ddos`, `payload`, `keylogger`, and more — with logic that *makes sense to a script kiddie*.
