@@ -64,20 +64,29 @@ _
 ## Sample Session
 
 ping
+
 ddos
+
 sql_inject
+
 Output: 11
 
 virus
+
 Virus injected → value is now 47
 
 store secret
+
 zero
+
 load secret
+
 Loaded 'secret' = 47
 
 payload
+
 sql_inject
+
 Output: 2209
 
 
